@@ -71,7 +71,7 @@ lib/
 
 - `flutter_bloc`: For state management
 - `firebase_auth`: For Firebase authentication
-- `cloud_firestore`: For Firebase Firestore (if used for storing additional user data)
+- `firebase_core`: For Firebase
 - `flutter_screenutil`: For responsive design
 - `custom_fonts`: For custom fonts
 - `intl_phone_field`: For Country code
